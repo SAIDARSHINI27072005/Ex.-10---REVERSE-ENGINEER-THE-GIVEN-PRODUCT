@@ -32,11 +32,18 @@
 
 ## Input:
 
+
+![image](https://github.com/SAIDARSHINI27072005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147474227/7fbcd9d8-cae9-404d-94c1-95d9d4e09b1b)
+
 ### Output:
 
 
-### Name:
-### Register Number:
+![image](https://github.com/SAIDARSHINI27072005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147474227/1d4b946a-6657-41ae-947d-665eb2ef7d15)
+
+![image](https://github.com/SAIDARSHINI27072005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147474227/c234948a-b95f-4802-9b33-283fd56c0ad2)
+
+### Name: SAI DARSHINI R S
+### Register Number: 212223230178
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
